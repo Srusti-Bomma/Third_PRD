@@ -1,0 +1,93 @@
+CAMPUSTRACK - PSEUDOCODE
+=========================
+
+START
+
+Create Scanner object
+Display CampusTrack heading
+
+DO
+    Read student ID
+    Read full name
+
+    Read age
+    WHILE age is outside 15 to 35
+        Display error
+        Read age again
+    END WHILE
+
+    Read email
+
+    DO
+        Display course menu
+        Read course choice
+        Use switch to assign course name and base semester fee
+    WHILE course choice is invalid
+
+    Read and validate semester
+    Consume pending newline
+    Read complete career goal
+
+    Read and validate five subject marks separately
+    Calculate total marks
+    Calculate decimal percentage using explicit casting
+
+    Check every subject pass condition
+    Check overall academic criteria
+    Determine grade
+
+    Read and validate total classes
+    Read and validate attended classes
+    Calculate attendance percentage
+    Use ternary operator to determine attendance status
+
+    Read and validate number of assignment entries
+    Set assignment total and valid count to zero
+
+    FOR every requested assignment entry
+        Read assignment score
+
+        IF score is -1
+            Display early-finish message
+            BREAK
+        END IF
+
+        IF score is invalid
+            Display skipped-entry warning
+            CONTINUE
+        END IF
+
+        Add score to assignment total
+        Increase valid-assignment count
+    END FOR
+
+    IF valid-assignment count is greater than zero
+        Calculate decimal assignment average
+    ELSE
+        Set assignment average to zero
+    END IF
+
+    Determine assignment criteria and status
+    Determine scholarship percentage
+    Calculate scholarship amount
+    Calculate final payable fee
+
+    Read and validate amount paid
+    Calculate fee balance
+    Use ternary operator to determine fee status
+
+    Check academic, attendance, assignment and fee conditions
+    Use ternary operator to determine final clearance status
+
+    Display the complete student report
+    Display every failed condition
+    Display relevant recommendations
+
+    Ask whether another student must be processed
+    Validate that the choice is 1 or 0
+WHILE choice is 1
+
+Display closing message
+Close Scanner
+
+STOP

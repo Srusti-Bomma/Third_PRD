@@ -1,0 +1,99 @@
+========================================================
+                    CAMPUSTRACK
+========================================================
+       Student Academic Management System
+--------------------------------------------------------
+
+Enter student ID: Enter full name: Enter age: Invalid age. Enter a value between 15 and 35.
+Enter age: Age accepted.
+Enter email: 
+Select course:
+1. BCA
+2. B.Sc Computer Science
+3. B.E/B.Tech
+4. MCA
+5. Other
+Enter course choice: Invalid course choice. Select a value from 1 to 5.
+
+Select course:
+1. BCA
+2. B.Sc Computer Science
+3. B.E/B.Tech
+4. MCA
+5. Other
+Enter course choice: Course selected: BCA
+Enter semester (1-8): Enter career goal: Enter Java marks: Invalid marks. Enter a value between 0 and 100.
+Enter Java marks: Java marks accepted.
+Enter SQL marks: SQL marks accepted.
+Enter Web Technology marks: Web Technology marks accepted.
+Enter Aptitude marks: Aptitude marks accepted.
+Enter Communication marks: Communication marks accepted.
+
+Enter total classes conducted: Invalid value. Total classes must be between 1 and 300.
+Enter total classes conducted: Enter classes attended: Invalid attendance. Attended classes cannot exceed 100.
+Enter classes attended: Attendance accepted.
+
+How many assignment scores do you want to enter (1-10)? Enter score for assignment 1 (0-10, -1 to finish): Assignment 1 accepted.
+Enter score for assignment 2 (0-10, -1 to finish): Assignment 2 accepted.
+Enter score for assignment 3 (0-10, -1 to finish): Assignment 3 accepted.
+
+Final payable fee: ₹35000.00
+Enter amount paid: 
+========================================================
+                 STUDENT SEMESTER REPORT
+========================================================
+Student ID                  : STU108
+Student Name                : Arjun Kumar
+Age                         : 20
+Email                       : arjun@gmail.com
+Course                      : BCA
+Semester                    : 5
+Career Goal                 : Explore backend development
+
+---------------- ACADEMIC SUMMARY --------------------
+Java Marks                  : 75
+SQL Marks                   : 72
+Web Technology Marks        : 68
+Aptitude Marks              : 70
+Communication Marks         : 75
+Total Marks                 : 360/500
+Percentage                  : 72.00%
+Academic Result             : PASSED
+Grade                       : B
+
+---------------- ATTENDANCE SUMMARY ------------------
+Classes Conducted           : 100
+Classes Attended            : 80
+Attendance Percentage       : 80.00%
+Attendance Status           : REGULAR
+
+---------------- ASSIGNMENT SUMMARY ------------------
+Valid Assignments           : 3
+Assignment Total            : 21
+Assignment Average          : 7.00
+Assignment Status           : SATISFACTORY
+
+---------------- FEE SUMMARY -------------------------
+Base Semester Fee           : ₹35000.00
+Scholarship Percentage      : 0%
+Scholarship Amount          : ₹0.00
+Final Payable Fee           : ₹35000.00
+Amount Paid                 : ₹35000.00
+Fee Balance                 : ₹0.00
+Fee Status                  : PAID
+
+---------------- FINAL STATUS ------------------------
+Semester Clearance          : CLEARED FOR NEXT SEMESTER
+
+---------------- FAILED CONDITIONS -------------------
+None
+
+---------------- RECOMMENDATIONS ---------------------
+Maintain the current performance in the next semester.
+========================================================
+
+Do you want to process another student?
+1. Yes
+0. No
+Enter choice: 
+Thank you for using CampusTrack.

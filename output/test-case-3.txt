@@ -1,0 +1,87 @@
+========================================================
+                    CAMPUSTRACK
+========================================================
+       Student Academic Management System
+--------------------------------------------------------
+
+Enter student ID: Enter full name: Enter age: Age accepted.
+Enter email: 
+Select course:
+1. BCA
+2. B.Sc Computer Science
+3. B.E/B.Tech
+4. MCA
+5. Other
+Enter course choice: Course selected: B.Sc Computer Science
+Enter semester (1-8): Enter career goal: Enter Java marks: Java marks accepted.
+Enter SQL marks: SQL marks accepted.
+Enter Web Technology marks: Web Technology marks accepted.
+Enter Aptitude marks: Aptitude marks accepted.
+Enter Communication marks: Communication marks accepted.
+
+Enter total classes conducted: Enter classes attended: Attendance accepted.
+
+How many assignment scores do you want to enter (1-10)? Enter score for assignment 1 (0-10, -1 to finish): Assignment 1 accepted.
+Enter score for assignment 2 (0-10, -1 to finish): Assignment 2 accepted.
+Enter score for assignment 3 (0-10, -1 to finish): Assignment 3 accepted.
+
+Final payable fee: ₹30000.00
+Enter amount paid: 
+========================================================
+                 STUDENT SEMESTER REPORT
+========================================================
+Student ID                  : STU103
+Student Name                : Boundary Test
+Age                         : 25
+Email                       : boundary@gmail.com
+Course                      : B.Sc Computer Science
+Semester                    : 5
+Career Goal                 : Test boundary conditions
+
+---------------- ACADEMIC SUMMARY --------------------
+Java Marks                  : 40
+SQL Marks                   : 40
+Web Technology Marks        : 40
+Aptitude Marks              : 40
+Communication Marks         : 40
+Total Marks                 : 200/500
+Percentage                  : 40.00%
+Academic Result             : PASSED
+Grade                       : D
+
+---------------- ATTENDANCE SUMMARY ------------------
+Classes Conducted           : 100
+Classes Attended            : 75
+Attendance Percentage       : 75.00%
+Attendance Status           : REGULAR
+
+---------------- ASSIGNMENT SUMMARY ------------------
+Valid Assignments           : 3
+Assignment Total            : 15
+Assignment Average          : 5.00
+Assignment Status           : SATISFACTORY
+
+---------------- FEE SUMMARY -------------------------
+Base Semester Fee           : ₹30000.00
+Scholarship Percentage      : 0%
+Scholarship Amount          : ₹0.00
+Final Payable Fee           : ₹30000.00
+Amount Paid                 : ₹30000.00
+Fee Balance                 : ₹0.00
+Fee Status                  : PAID
+
+---------------- FINAL STATUS ------------------------
+Semester Clearance          : CLEARED FOR NEXT SEMESTER
+
+---------------- FAILED CONDITIONS -------------------
+None
+
+---------------- RECOMMENDATIONS ---------------------
+Maintain the current performance in the next semester.
+========================================================
+
+Do you want to process another student?
+1. Yes
+0. No
+Enter choice: 
+Thank you for using CampusTrack.
